@@ -92,7 +92,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 𝐵𝑙𝑎𝑐𝑘𝐻𝑜𝑠𝑡-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1482,7 +1482,7 @@ exports.tqto = () =>{
 ├ DikaArdnt
 ├ Mhankbarbar
 ├ Nurutomo
-├ Rashid
+├ 𝐵𝑙𝑎𝑐𝑘 𝐻𝑜𝑠𝑡𝑖𝑛𝑔
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
