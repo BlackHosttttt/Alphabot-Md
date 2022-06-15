@@ -18,8 +18,8 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = '𝐵𝑙𝑎𝑐𝑘𝐻𝑜𝑠𝑡-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ 𝐵𝑙𝑎𝑐𝑘 𝐻𝑜𝑠𝑡𝑖𝑛𝑔 ×፝֟͜×" //nama kalian
+global.botname = 'BlackHost-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Black Hosting ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://BlackBotZ991.github.io/" //bebas
@@ -31,8 +31,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/k.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6282143349069","6282143349069","6282143349069"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© 𝐵𝑙𝑎𝑐𝑘𝐻𝑜𝑠𝑡-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh 𝐵𝑙𝑎𝑐𝑘𝐻𝑜𝑠𝑡𝑖𝑛𝑔' //sticker wm ganti nama kalian
+global.packname = '© BlackHost-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh Black Hosting' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
