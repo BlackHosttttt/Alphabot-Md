@@ -18,7 +18,7 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = 'Bot-Md" //namabot kalian
+global.botname = "ᴹᴿ᭄ BlackHost ×፝֟͜×" //namabot kalian
 global.ownername= "ᴹᴿ᭄ Black Hosting ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
