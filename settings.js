@@ -12,25 +12,25 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 //global.autorecording = true //status auto merekam ( auto record )
-//global.autoketik = false //status auto mengetik (auto typing)
-//global.available = false //status online (online)
+//global.autoketik = true //status auto mengetik (auto typing)
+//global.available = true //status online (online)
 
 // Other
-global.botname = "ROKI BOTZ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Rifan ×፝֟͜×" //nama kalian
+global.botname = "Trash Bot Md" //namabot kalian
+global.ownername= "ᴹᴿ᭄ BlackHost ×፝֟͜×" //nama kalian
 global.myweb ="https://api.blackhost.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://BlackBotZ991.github.io/" //bebas
 global.email = "gustyas2022@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285643137581" // nomor wa kalian
-global.ownernomerr = "+6285643137581" //nmr wa kalian
+global.ownernomer = "6282143349069" // nomor wa kalian
+global.ownernomerr = "+6282143349069" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/k.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282143349069","6285643137581","6285643137581"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6282143349069","6282143349069","6282143349069"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© kiko?' //sticker wm ubah
 global.author = '082143349069' //sticker wm ganti nama kalian
 global.sessionName = 'session'
